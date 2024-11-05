@@ -1,0 +1,15 @@
+app/draft/
+app/web/
+app/consts/main.php
+app/scrape/
+app/admin/strack.txt
+app/drive/
+app/gdrive/
+app/assets/
+app/results.db
+app/.env
+app/note.txt
+textextractor
+app/.htaccess
+app/api/.htaccess
+app/extract.html
